@@ -1,4 +1,5 @@
 <template>
+	<a href="index.html"></a>
 </template>
 
 <script>
